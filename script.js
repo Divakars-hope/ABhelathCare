@@ -40,7 +40,7 @@ Quantity: ${quantity}
 Please contact me regarding this order.`;
 
 const whatsappURL =
-`https://wa.me/916381928864?text=${encodeURIComponent(message)}`;
+`https://wa.me/919944188595?text=${encodeURIComponent(message)}`;
 
 window.open(whatsappURL, "_blank");
 
